@@ -1,4 +1,4 @@
-const names = ["Sarah", "Phoebe", "Adam", "Frederick", "Iuliia", "Matthew", "Dimple", "Lucy", "Hannah", "Oliwia", "Hugo", "Aimee", "Agnes", "Eva", "Constance", "Ciara"]
+const names = ["Tara", "Debi", "Charles", "Dan", "Stacey", "Billy", "Alexander H", "Aleksandra", "Maxwell", "Abigail", "Nadine", "Marion", "Jia-yi", "Alexander N", "Roxanne", "Rosie"]
 const classSize = names.length
 var countdown = 0;
 var ticker = 100;
