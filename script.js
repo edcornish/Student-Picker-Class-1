@@ -58,8 +58,8 @@ function picker(){
     var defaults = {
       origin: { y: 0.7 },
       scalar: 1.75,
-      ticks: 1000
-      
+      ticks: 1000,
+      shapes: ['square']
     };
     
     function fire(particleRatio, opts) {
