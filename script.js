@@ -56,7 +56,10 @@ function picker(){
     // This controls all the confetti
     var count = 500;
     var defaults = {
-      origin: { y: 0.7 }
+      origin: { y: 0.7 },
+      scalar: 1.75,
+      ticks: 1000
+      
     };
     
     function fire(particleRatio, opts) {
